@@ -1,8 +1,10 @@
-body,
 html {
+    background-color: rgb(96 186 193 / 32%);
+}
+body
+ {
     margin: 0;
     padding: 0;
-    background-color: rgb(174, 238, 183);
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -13,7 +15,12 @@ body {
     margin-bottom: 80px;
 }
 
-
+h2 {
+    font-size: 40px;
+    padding: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
 .resetButton {
     position: fixed;
     bottom: 30px;

@@ -16,24 +16,12 @@ Create a program that implements character output as a string, where the number 
 Example # 1:
 ```javascript
 Input: 5
-Output: 
-"*"
-"* 4"
-"* 4 *"
-"* 4 * 16"
-"* 4 * 16 *"
+Output: "* 4 * 16 *"
 ```
 Example # 2:
 ```javascript
 Input: 7
-Output: 
-"*"
-"* 4"
-"* 4 *"
-"* 4 * 16"
-"* 4 * 16 *"
-"* 4 * 16 * 36"
-"* 4 * 16 * 36 *"
+Output: "* 4 * 16 * 36 *"
 ```
 
 ------------------------------
