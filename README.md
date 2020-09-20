@@ -1,4 +1,4 @@
-[numbersToSymbols](https://github.com/oleksiykalashnyk/taskForJS-numbersToSymbols)  ([demo](https://oleksiykalashnyk.github.io/taskForJS-numbersToSymbols/))
+[numbersToNewSymbols](https://github.com/oleksiykalashnyk/taskForJS-numbersToNewSymbols)  ([demo](https://oleksiykalashnyk.github.io/taskForJS-numbersToNewSymbols/))
 ========================
 
 Author of the idea: 
